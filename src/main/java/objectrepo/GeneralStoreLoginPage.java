@@ -26,6 +26,7 @@ public class GeneralStoreLoginPage
         textField.sendKeys(name);
         maleRadioButton.click();
         shopButton.click();
+        shopButton.click();
     }
 
 }

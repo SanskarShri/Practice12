@@ -27,6 +27,7 @@ public class LoginToGeneralStore
 
         GeneralStoreLoginPage login=new GeneralStoreLoginPage(driver);
         login.generalStoreLogin("Vishnu");
+        System.out.println("hi");
 
     }
 }
